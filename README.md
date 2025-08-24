@@ -6,3 +6,6 @@
 
 ## 作者
 masago
+
+## ポートフォリオ
+- [おみくじアプリ](https://masago432.github.io/omikuji-app/)
