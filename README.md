@@ -19,7 +19,8 @@
 - HTML / CSS / JavaScript（基本操作・Bootstrap経験あり）
 - WordPress（簡単な修正や構築経験あり）
 - Git / GitHub
-- Notion / Canva / ChatGPT
+- ChatGPT
+- Power BI
 
 ### 🎯 今後の目標
 - DjangoやPower Appsを活用した小さな業務アプリを作り、実績を積むこと
@@ -42,3 +43,4 @@ masago
 ## ポートフォリオ
 - [おみくじアプリ](https://masago432.github.io/omikuji-app/)
 - [ポートフォリオPDF]https://github.com/masago432/web-portfolio/blob/main/PORTFOLIO_masago%20(1).pdf
+
